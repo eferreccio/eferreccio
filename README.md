@@ -1,4 +1,13 @@
-Hola! Soy Esteban Ferreccio 👋
+Hi! I'm Esteban Ferreccio 👋
+
+I´m doing my first steps on programming 💻. 
+At the age of 39, i've have decided to change my life🌈 and rebuild my self. I'm electromechanical engeneer, and i´ve been working on Supply Chain as a manager 👨‍💼, but i had a big curosity on software industry. 
+Working at home because of covid-19 pandemic, i started to think: 
+
+Why not??!!!🏄‍♂️
+I want to be part of this world!!
+
+So, here i am. Looking for an oportunity!!!! 
 
 <!--
 **eferreccio/eferreccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
